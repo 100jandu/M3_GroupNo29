@@ -12,6 +12,6 @@
    ![LLD_M3 drawio](https://user-images.githubusercontent.com/98866279/157887883-59739b7f-706b-41bc-8ff2-e355b5f63928.png)   
 
 
-## Flow Chart
+## Behavioral Diagram/Flow Chart
    
    ![Flow Chart project 2](https://user-images.githubusercontent.com/98866279/157902526-9ea9c75a-3bd3-4bd5-93fb-a38d9d0c2f14.png)    
