@@ -38,7 +38,7 @@
 | HLR2 |Shall unlock the door. |
 | HLR3 |Shall activate/deactivate the alarm. |
 | HLR4 |Shall activate the approach light. |
-| HLR5 |The communication shall be duplex. |
+| HLR5 |The communication shall be Bi-directional. |
 
 ***
 ## Low-Level Requirements (LLR)
