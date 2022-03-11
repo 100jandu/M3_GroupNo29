@@ -38,6 +38,7 @@
 | HLR2 |Shall unlock the door. |
 | HLR3 |Shall activate/deactivate the alarm. |
 | HLR4 |Shall activate the approach light. |
+| HLR5 |The communication shall be duplex. |
 
 ***
 ## Low-Level Requirements (LLR)
@@ -51,4 +52,5 @@
 | ▶️  | ▶️ | GREEN :arrow_right: ORANGE :arrow_right: RED :arrow_right: BLUE |  
 | LLR5 |HLR4|Pressing Blue button four times shall make all LEDs glow anti-clockwise as shown below |
 |  ▶️ | ▶️  | GREEN :arrow_right: BLUE :arrow_right: RED :arrow_right: ORANGE | 
+| LLR6 |HLR5| Car shall send back the info to remote by LED/display |
 
