@@ -34,7 +34,7 @@
 
 | ID | High Level Requirement |
 |---|---|
-| HLR1 |Show Window Status  |
+| HLR1 |Shall print Window Status  |
 | HLR2 |Shall Print alarm status |
 | HLR3 |Shall Print car battery status. |
 | HLR4 |Shall Print Door status . |
