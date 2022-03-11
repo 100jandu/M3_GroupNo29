@@ -5,7 +5,7 @@
 |---|---|---|---|---|
 | HLTP1 | Print Window status | Press Blue Switch Once | Shall Print Window status | shall Print Window status |
 | HLTP2 | print alarm status | Press Blue switch Twice | Shall print alarm status  | shall print alarm status  |
-| HLTP3 |	Print car battery info  | Press Blue Switch Thrice |Shall Print car battery info | shall activate/deactivate the anti theft alarm |
+| HLTP3 |	Print car battery info  | Press Blue Switch Thrice |Shall Print car battery info | shall Print car battery info  |
 | HLTP4 | Print Door status  | Press Blue Switch Four Times | Shall Print Door status  | shall Print Door status  |
 | HLTP5 | Encryption | Wheter it is equal to 1 , 2 , 3 or 4 | if it is equal then implement the requirement | if it is equal then implement the requirement |
 
