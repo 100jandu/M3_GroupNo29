@@ -1,7 +1,12 @@
+
+![Code_Grade](https://api.codiga.io/project/31886/status/svg)
+
+![Code_Quality_Score](https://api.codiga.io/project/31886/score/svg)
 # M3_GroupNo29
 * Mukul Didolkar 
 * Saujandu Roy 
 * Kartik Burele 
+
 
 | Name|  Contribution|
 |---|---|
