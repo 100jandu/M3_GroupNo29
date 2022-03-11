@@ -18,6 +18,6 @@
 | LLTP2 | To check if blue switch is pressed once| Pressing Blue button once shall make all LEDs glow at once. | ✅
 | LLTP3 | To check if blue switch is pressed twice | Pressing Blue button twice shall stop all LEDs from glowing at once. | ✅
 | LLTP4 | To check if blue switch is pressed thrice | Pressing Blue button thrice shall make all LEDs glow clockwise as shown below | ✅
-|   | GREEN :arrow_right: ORANGE :arrow_right: RED :arrow_right: BLUE |  
+| |  | GREEN :arrow_right: ORANGE :arrow_right: RED :arrow_right: BLUE |  
 | LLTP5 | To check if blue button is pressed four times | Pressing Blue button four times shall make all LEDs glow anti-clockwise as shown below | ✅
-|   | GREEN :arrow_right: BLUE :arrow_right: RED :arrow_right: ORANGE 
+|  | | GREEN :arrow_right: BLUE :arrow_right: RED :arrow_right: ORANGE 
