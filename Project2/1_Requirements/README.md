@@ -34,10 +34,10 @@
 
 | ID | High Level Requirement |
 |---|---|
-| HLR1 |Shall lock the door. |
-| HLR2 |Shall unlock the door. |
-| HLR3 |Shall activate/deactivate the alarm. |
-| HLR4 |Shall activate the approach light. |
+| HLR1 |Show Window Status  |
+| HLR2 |Shall Print alarm status |
+| HLR3 |Shall Print car battery status. |
+| HLR4 |Shall Print Door status . |
 | HLR5 |The communication shall be Bi-directional. |
 
 ***
