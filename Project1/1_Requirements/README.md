@@ -35,4 +35,30 @@
 | LLR5 |HLR4|Pressing Blue button four times shall make all LEDs glow anti-clockwise as shown below |
 |   |HLR4 | GREEN :arrow_right: BLUE :arrow_right: RED :arrow_right: ORANGE | 
 
+# 4Ws and 1H
+
+## What
+* To perform various functions like lock and unlock the door activate/deactivate the alarm and enable the approach light.
+---
+## Where
+* This System shall be installed in Cars.
+---
+## When
+* System shall remain active when the user is not near the car. 
+---
+## Why
+* RKE provides better security than the traditional key-lock system.
+---
+## How
+* By Pressing blue button in prescribed manner.
+--- 
+
+# SWOT Analysis
+
+| Strengths | Weakness | Opportunity | Threat |
+|-----------|----------|-------------|--------|
+| It does not Require physical key to lock/unlock the car | Distance from the car to operate the system is limited |  RKE can be widely used in cars and other transportation systems|If the encryption algorithm is tampered, the system shall not work properly. | 
+
+---
+
 
