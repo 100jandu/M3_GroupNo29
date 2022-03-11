@@ -55,12 +55,12 @@
 
 | ID | HLR ID |Low Level Requirement |
 |---|---|---|
-| LLR1 |   |LEDs shall glow only after pressing Blue button. |
+| LLR1 |  - |LEDs shall glow only after pressing Blue button. |
 | LLR2 |HLR1 |Pressing Blue button once shall make all LEDs glow at once. | 
 | LLR3 |HLR2|Pressing Blue button twice shall stop all LEDs from glowing at once. | 
-| LLR4 |HLR3 |Pressing Blue button thrice shall make all LEDs glow clockwise as shown below | 
-|   |HLR3 | GREEN :arrow_right: ORANGE :arrow_right: RED :arrow_right: BLUE |  
+| LLR4 |HLR3 |Pressing Blue button thrice shall make all LEDs glow clockwise as shown below |
+| ▶️  | ▶️ | GREEN :arrow_right: ORANGE :arrow_right: RED :arrow_right: BLUE |  
 | LLR5 |HLR4|Pressing Blue button four times shall make all LEDs glow anti-clockwise as shown below |
-|   |HLR4 | GREEN :arrow_right: BLUE :arrow_right: RED :arrow_right: ORANGE | 
+|  ▶️ | ▶️  | GREEN :arrow_right: BLUE :arrow_right: RED :arrow_right: ORANGE | 
 
 
