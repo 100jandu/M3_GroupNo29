@@ -2,6 +2,8 @@
 
 ####  High Level Structural Diagram
 
+![flowchart (1)](https://user-images.githubusercontent.com/98812378/157898680-770367ba-b3ad-47a8-a4e9-196801506f98.jpg)
+
 
 ####  Low Level Structural Diagram
 
